@@ -4,5 +4,6 @@
 int main(void)
 {
     printf("HelloWorld!\n\n");
+    printf("yingsi test\n");
     return 0;
 }
