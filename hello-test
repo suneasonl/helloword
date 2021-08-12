@@ -4,6 +4,6 @@
 int main(void)
 {
     printf("HelloWorld!\n\n");
-    printf("yingsi liuyi test\n");
+    printf("2021 08 12 14:18`\n");
     return 0;
 }
